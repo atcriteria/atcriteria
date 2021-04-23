@@ -1,6 +1,14 @@
 ### ⚔️ Greetings, Adventurer 🛡️
 I am a Full Stack Web Developer who enjoys creating unique web applications as well as dabbling a bit in game development both as an artist and a programmer.
 
+## A little bit about me
+- My love for programming and Full Stack Web Dev stems from my desire to create amazing things that users can interact with.
+- I enjoy Python's simplicity but prefer JavaScript's structure. Something about semicolons and curly braces just really gets the heart racing.
+- I love to make people laugh.
+
+🛠 Tech Stack
+- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
 <!--
 **atcriteria/atcriteria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

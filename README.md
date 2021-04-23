@@ -8,7 +8,7 @@ I am a Full Stack Web Developer who enjoys creating unique web applications as w
 
 ## 🛠 Tech Stack
 - 💻 &nbsp; Python | MySQL
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJS
 
 <!--
 **atcriteria/atcriteria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

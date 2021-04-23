@@ -7,8 +7,8 @@ I am a Full Stack Web Developer who enjoys creating unique web applications as w
 - I love to make people laugh.
 
 🛠 Tech Stack
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 💻 &nbsp; Python | MySQL
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
 <!--
 **atcriteria/atcriteria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

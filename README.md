@@ -1,7 +1,6 @@
 ### ⚔️ Greetings, Adventurer 🛡️
 I am a Full Stack Web Developer who enjoys creating unique web applications as well as dabbling a bit in game development both as an artist and a programmer.
 
-480 × 480
 
 <!--
 **atcriteria/atcriteria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

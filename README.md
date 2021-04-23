@@ -6,7 +6,7 @@ I am a Full Stack Web Developer who enjoys creating unique web applications as w
 - I enjoy Python's simplicity but prefer JavaScript's structure. Something about semicolons and curly braces just really gets the heart racing.
 - I love to make people laugh.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 - 💻 &nbsp; Python | MySQL
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 

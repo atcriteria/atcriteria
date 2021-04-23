@@ -1,4 +1,7 @@
-### Hi there 👋
+### ⚔️ Greetings, Adventurer 🛡️
+I am a Full Stack Web Developer who enjoys creating unique web applications as well as dabbling a bit in game development both as an artist and a programmer.
+
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/)
 
 <!--
 **atcriteria/atcriteria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
